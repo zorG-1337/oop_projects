@@ -1,0 +1,3 @@
+﻿  oop_3.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\oop_3\oop_3\oop_3.cpp(138): warning C4715: Container::getObject: значение возвращается не при всех путях выполнения
+  oop_3.vcxproj -> C:\Users\bossv\OneDrive\Рабочий стол\абоба\oop_3\x64\Debug\oop_3.exe

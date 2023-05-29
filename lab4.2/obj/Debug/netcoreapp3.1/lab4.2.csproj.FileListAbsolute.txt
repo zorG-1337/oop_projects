@@ -1,0 +1,48 @@
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.exe
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.deps.json
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.runtimeconfig.json
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.runtimeconfig.dev.json
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.dll
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.pdb
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.AssemblyReference.cache
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4._2.Form1.resources
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.GenerateResource.cache
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.AssemblyInfoInputs.cache
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.AssemblyInfo.cs
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.dll
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.pdb
+C:\Users\Rozhk\OneDrive\Рабочий стол\OOP\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.genruntimeconfig.cache
+C:\Users\user\Desktop\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.exe
+C:\Users\user\Desktop\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.deps.json
+C:\Users\user\Desktop\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.runtimeconfig.json
+C:\Users\user\Desktop\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.runtimeconfig.dev.json
+C:\Users\user\Desktop\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.dll
+C:\Users\user\Desktop\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.pdb
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4._2.Form1.resources
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.AssemblyInfo.cs
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.dll
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.pdb
+C:\Users\user\Desktop\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.genruntimeconfig.cache
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.exe
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.deps.json
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.runtimeconfig.json
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.runtimeconfig.dev.json
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.dll
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\bin\Debug\netcoreapp3.1\lab4.2.pdb
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.AssemblyReference.cache
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4._2.Form1.resources
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.GenerateResource.cache
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.AssemblyInfoInputs.cache
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.AssemblyInfo.cs
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.dll
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.pdb
+C:\Users\bossv\OneDrive\Рабочий стол\абоба\lab4.2\obj\Debug\netcoreapp3.1\lab4.2.genruntimeconfig.cache
